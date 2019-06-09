@@ -32,9 +32,9 @@
         "package": "Sword",
         "repositoryURL": "https://github.com/Azoy/Sword",
         "state": {
-          "branch": null,
-          "revision": "0b98a557679d4d6d0c7223e0afeb8c75f406d230",
-          "version": "0.9.1"
+          "branch": "master",
+          "revision": "0c1d22c17b46a88f5b3b12efee03680e8fcabf6e",
+          "version": null
         }
       },
       {

@@ -1,0 +1,11 @@
+//
+//  example.debug.xcconfig
+//  MHW-Discord
+//
+//  Created by Kiszaner on 08/06/2019.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DISCORD_BOT_TOKEN = some_example_token

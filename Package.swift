@@ -12,7 +12,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "../MHWBotCore", .branch("master")),
-        .package(url: "https://github.com/Azoy/Sword", .upToNextMajor(from: "0.9.0"))
+        .package(url: "https://github.com/Azoy/Sword", .branch("master"))
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
